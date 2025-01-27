@@ -44,3 +44,33 @@ h5{
     margin-top: 1px;
     margin-bottom: 1px;
 }
+#lorem {
+    font-size: small;
+}
+#list {
+    font-size: small;
+    margin-left: 1px;
+    padding: 1px;
+}
+table {
+    font-size: x-small;
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 1px;
+}
+td{
+    min-width: 175px;
+}
+thead {
+    text-align: left;
+    background-color: rgb(0, 166, 191);
+    color: white;
+}
+.odd {
+    background-color: rgb(153, 229, 255);
+    color: black;
+}
+.even {
+    background-color: white;
+    color: black;
+}
