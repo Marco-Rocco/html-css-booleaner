@@ -33,3 +33,14 @@ h5{
     margin-top: 1px;
     font-size: xx-small;
 }
+.photo.tim{
+    display: inline-block;
+    width: 48%;
+    height: 250px;
+    margin: 0px;
+}
+.photo.credit{
+    font-size: xx-small;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
